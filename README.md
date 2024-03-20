@@ -4,4 +4,4 @@ section to generate random thoughts, and random qoutes. user can mark somr of th
 
 In further development phases I will add filters and search methods that will enhance the experience.
 
-For now I will be using the qoute generator api, later I will think of writing the logic by myself.
+For now I will be using the qoute generator api, later I will think of writing the logic by myself.# Qoutes_Generator
